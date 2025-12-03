@@ -11,19 +11,21 @@
     //  boolean-------------------------------------------------------
     $testCovid  = true;
     $testGrippe = false;
+    echo $testCovid; 
+    echo "<br>";
+    echo $testGrippe;
 
     // float-----------------------------------------------------------
-    $degree = 7.2;
-    $temperature = -5.5;
+    // $degree = 7.2;
+    // $temperature = -5.5;
 
 
     // integer---------------------------------------------------------
-    $code = 1234;
-    echo $code;
+    // $code = 1234;
+    // echo $code;
 
-    $chiffre = 1;
-
-    $temperature = -6;
+    // $chiffre = 1;
+    // $temperature = -6;
 
 
     // string-----------------------------------------------------------
