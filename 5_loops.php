@@ -12,25 +12,33 @@
 
 
     // foreach (pour chaque) ----------------------------------------------------------------------------------
-    $days = [
-        0 => "Lundi", 
-        1 => "Mardi", 
-        2 => "Mercredi", 
-        3 => "Jeudi", 
-        4 => "Vendredi", 
-        5 => "Samedi", 
-        6 => "Dimanche"
-    ];
     
-    foreach ($days as $day) {
-        echo $day . "<br>";
-    }
-    
-    echo "--------------------------<br>";
+    // $teams = ['Fc Barcelona', 'Real Madrid', 'Chelsea', 'Paris Saint Germain', 'Marseille', 'Bayern Munich'];
 
-    foreach ($days as $key => $day) {
-        echo "A la clé " . $key . " , nous avons: " . $day . "<br>";   
-    }
+    // foreach ($teams as $team) {
+    //     echo $team . "<br>";
+    // }
+    
+    
+    // $days = [
+    //     0 => "Lundi", 
+    //     1 => "Mardi", 
+    //     2 => "Mercredi", 
+    //     3 => "Jeudi", 
+    //     4 => "Vendredi", 
+    //     5 => "Samedi", 
+    //     6 => "Dimanche"
+    // ];
+    
+    // foreach ($days as $day) {
+    //     echo $day . "<br>";
+    // }
+    
+    // echo "--------------------------<br>";
+
+    // foreach ($days as $key => $day) {
+    //     echo "A la clé " . $key . " , nous avons: " . $day . "<br>";   
+    // }
 
 
     // for (pour) ----------------------------------------------------------------------------------
