@@ -7,15 +7,15 @@
      *---------------------------------------------------------
     */
 
-    // Tableau à double dimension
-    $players = [
-        0 => ['Kylian', 'Mbappé', 25],
-        1 => ['Ousmane', 'Dembélé', 28],
-        2 => ['Cristiano', 'Ronaldo', 40],
-        3 => ['Lionel', 'Messi', 37],
-    ];
+    // // Tableau à double dimension
+    // $players = [
+    //     0 => ['Kylian', 'Mbappé', 25],
+    //     1 => ['Ousmane', 'Dembélé', 28],
+    //     2 => ['Cristiano', 'Ronaldo', 40],
+    //     3 => ['Lionel', 'Messi', 37],
+    // ];
 
-    echo $players[0][0] . " " . $players[0][1] . " a " . $players[0][2] . " ans.";
+    // echo $players[0][0] . " " . $players[0][1] . " a " . $players[0][2] . " ans.";
 
     // echo $players[2][1];
     // echo "<br>";
