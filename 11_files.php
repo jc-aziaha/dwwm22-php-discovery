@@ -1,5 +1,5 @@
 <?php
-    var_dump($_POST);
+    var_dump($_FILES);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -11,8 +11,8 @@
     <body>
         <h1>Inscription à la newsletter</h1>
 
-        <form method="post">
-            <input type="email" name="email">
+        <form method="post" enctype="multipart/form-data">
+            <input type="file" name="image">
             <input type="submit">
         </form>
     </body>
