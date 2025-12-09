@@ -1,12 +1,8 @@
 <?php
 
-    /**
+    /*
      *---------------------------------------------------------
-     * @todo Les fonctions
-     *  a. natives
-     *  b. à créer :
-     *      - retournant une valeur
-     *      - ne retournant rien comme valeur
+     * Les fonctions natives
      *---------------------------------------------------------
     */
 
